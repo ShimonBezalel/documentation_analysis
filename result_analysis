@@ -1,0 +1,29 @@
+from os import walk
+from os.path import join
+import json
+from pprint import pprint
+import math
+
+from constants import *
+
+
+if __name__ == '__main__':
+    repo = "jquery"
+    # r = requests.get("https://api.github.com/repos/twbs/bootstrap/tags")
+    # tags = r.json()
+    repo_path = join(DIR_RESULTS, repo)
+    print("TAG", "\t", "TOTAL", "\t", "AVERAGE", "\t", "Num of files")
+
+    for root, dirs, files in walk(repo_path):
+        for tag in sorted(files):
+            with open(join(repo_path, tag)) as f:
+                result = json.load(f)
+                total_documentation = sum(f['documentations'] for f in result["files"])
+                average_documentation = total_documentation/len(result["files"])
+                print(tag[:8], "\t", total_documentation, "\t", round(average_documentation, 2), "\t", len(result["files"]))
+            # print(tag)
+        #         # release_zip_url = tag["zipball_url"]
+        #         # location = download_release(release_zip_url, dir=tmp_dir)
+        #         # result = parse_dir(dir=location)
+        #         # with open(join(DIR_RESULTS, repo, "{}.json".format(tag['name'].replace(".", "_"))), 'w') as f:
+        #         #     json.dump(result, f, indent=2)

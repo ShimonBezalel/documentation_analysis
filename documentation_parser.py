@@ -1,16 +1,15 @@
 from os import listdir, walk, chdir, curdir
+import os
 from os.path import isfile, join, curdir, basename
 from pprint import pformat, pprint as pp
 import requests, zipfile, io
 import tempfile
-
+import datetime
 from constants import *
 import json
 
 
-ANY_FILE = ""
-
-def all_file_paths(path=curdir, extension=ANY_FILE):
+def all_file_paths(path=curdir, extension=EXT_ANY_FILE):
     """
     Retreive all the paths
     :param path:
@@ -23,21 +22,25 @@ def all_file_paths(path=curdir, extension=ANY_FILE):
                 file_paths.append(join(root, file))
     return file_paths
 
+
 def format_result(result):
     raise NotImplemented
+
 
 def save_result(result):
     raise NotImplemented
 
+
 def parse_repo(repo):
-    download_repo(repo)
+    download_release(repo)
     # raise NotImplemented
+
 
 def parse_release(release):
     raise NotImplemented
 
-def download_repo(zip_file_url, dir):
 
+def download_release(zip_file_url, dir):
     r = requests.get(zip_file_url, stream=True)
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall(path=dir)
@@ -45,7 +48,7 @@ def download_repo(zip_file_url, dir):
     return join(dir, z.namelist()[0])
 
 
-def parse_dir(dir=curdir):
+def parse_dir(dir=curdir, file_ext=[JAVASCRIPT]):
     paths = all_file_paths(path=dir, extension='.' + JAVASCRIPT)
     histogram = {}
     result = {'files': [], "histogram": histogram}
@@ -75,23 +78,37 @@ def parse_dir(dir=curdir):
             finally:
                 result["files"].append(file_result)
 
-
-    # pp(sorted([(k, v) for k, v in histogram.items()], key=lambda kv: kv[1]))
-    # pp(result)
-
-    # print(len(paths))
     return result
-    # raise NotImplemented
+
+
+def setup_results_dir(repo):
+    org, repo = repo.split("/")
+    org_path = os.path.join(DIR_RESULTS, org)
+    repo_path = os.path.join(org_path, repo)
+    if (not os.path.exists(org_path)):
+        os.mkdir(org_path)
+    if (not os.path.exists(repo_path)):
+        os.mkdir(repo_path)
+
 
 if __name__ == '__main__':
-    with tempfile.TemporaryDirectory() as d:
-        r = requests.get("https://api.github.com/repos/twbs/bootstrap/tags")
-        tags = r.json()
-        for tag in tags:
+    repo = "jitsi/jitsi-meet"
+    setup_results_dir(repo)
+    pagination = {'page': 0, 'per_page': 100}
+    all_tags = []
+    with tempfile.TemporaryDirectory() as tmp_dir:
+        for page in range(100):
+            pagination['page'] = page
+            r = requests.get("https://api.github.com/repos/{}/tags".format(repo), params=pagination)
+            page_tags = r.json()
+            if page_tags:
+                all_tags.extend(page_tags)
+            else:
+                break
+        print("For repo {} found {} tags".format(repo, len(all_tags)))
+        for tag in all_tags:
             release_zip_url = tag["zipball_url"]
-            # release = "https://api.github.com/repos/twbs/bootstrap/zipball/v4.4.0"
-            path = download_repo(release_zip_url, dir=d)
-            # print(path)
-            result = parse_dir(dir=path)
-            with open(tag['name'].replace(".", "_") + ".json", 'w') as f:
+            location = download_release(release_zip_url, dir=tmp_dir)
+            result = parse_dir(dir=location)
+            with open(join(DIR_RESULTS, repo, "{}.json".format(tag['name'].replace(".", "_"))), 'w') as f:
                 json.dump(result, f, indent=2)

@@ -29,3 +29,5 @@ ADW_GLOBALS = {
 
 EXT_ANY_FILE = ""
 
+DIR_RESULTS = "results"
+
