@@ -1,0 +1,448 @@
+{
+  "files": [
+    {
+      "path": ".babelrc.js",
+      "documentations": 0
+    },
+    {
+      "path": "package.js",
+      "documentations": 1
+    },
+    {
+      "path": "bootstrap.bundle.js",
+      "documentations": 0
+    },
+    {
+      "path": "bootstrap.js",
+      "documentations": 61
+    },
+    {
+      "path": "bootstrap.bundle.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "bootstrap.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "util.js",
+      "documentations": 5
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 7
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 7
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 7
+    },
+    {
+      "path": "index.js",
+      "documentations": 2
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 8
+    },
+    {
+      "path": "tab.js",
+      "documentations": 7
+    },
+    {
+      "path": "popover.js",
+      "documentations": 6
+    },
+    {
+      "path": "alert.js",
+      "documentations": 7
+    },
+    {
+      "path": "button.js",
+      "documentations": 7
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 7
+    },
+    {
+      "path": "modal.js",
+      "documentations": 8
+    },
+    {
+      "path": "toast.js",
+      "documentations": 6
+    },
+    {
+      "path": "karma.conf.js",
+      "documentations": 2
+    },
+    {
+      "path": "browsers.js",
+      "documentations": 2
+    },
+    {
+      "path": "util.js",
+      "documentations": 0
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 0
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 0
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 0
+    },
+    {
+      "path": "tab.js",
+      "documentations": 0
+    },
+    {
+      "path": "popover.js",
+      "documentations": 0
+    },
+    {
+      "path": "alert.js",
+      "documentations": 0
+    },
+    {
+      "path": "button.js",
+      "documentations": 0
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 0
+    },
+    {
+      "path": "modal.js",
+      "documentations": 0
+    },
+    {
+      "path": "toast.js",
+      "documentations": 0
+    },
+    {
+      "path": "bundle.js",
+      "documentations": 0
+    },
+    {
+      "path": "rollup.bundle.js",
+      "documentations": 1
+    },
+    {
+      "path": "util.js",
+      "documentations": 3
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 5
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 5
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 5
+    },
+    {
+      "path": "index.js",
+      "documentations": 1
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 6
+    },
+    {
+      "path": "tab.js",
+      "documentations": 5
+    },
+    {
+      "path": "popover.js",
+      "documentations": 4
+    },
+    {
+      "path": "alert.js",
+      "documentations": 5
+    },
+    {
+      "path": "button.js",
+      "documentations": 5
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 5
+    },
+    {
+      "path": "modal.js",
+      "documentations": 6
+    },
+    {
+      "path": "toast.js",
+      "documentations": 4
+    },
+    {
+      "path": "sw.js",
+      "documentations": 0
+    },
+    {
+      "path": "offcanvas.js",
+      "documentations": 0
+    },
+    {
+      "path": "form-validation.js",
+      "documentations": 0
+    },
+    {
+      "path": "dashboard.js",
+      "documentations": 1
+    },
+    {
+      "path": "docs.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "clipboard.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "anchor.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "bs-custom-file-input.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "jquery-slim.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "ie-emulation-modes-warning.js",
+      "documentations": 1
+    },
+    {
+      "path": "application.js",
+      "documentations": 2
+    },
+    {
+      "path": "search.js",
+      "documentations": 0
+    },
+    {
+      "path": "change-version.js",
+      "documentations": 1
+    },
+    {
+      "path": "build-plugins.js",
+      "documentations": 1
+    },
+    {
+      "path": "rollup.config.js",
+      "documentations": 0
+    },
+    {
+      "path": "vnu-jar.js",
+      "documentations": 0
+    },
+    {
+      "path": "generate-sri.js",
+      "documentations": 1
+    },
+    {
+      "path": "banner.js",
+      "documentations": 1
+    },
+    {
+      "path": "postcss.config.js",
+      "documentations": 0
+    }
+  ],
+  "histogram": {
+    "eslint-env": 4,
+    "meteor": 1,
+    "": 1136,
+    "Bootstrap": 51,
+    "v4.2.1": 15,
+    "(https://getbootstrap.com/)": 16,
+    "Copyright": 25,
+    "2011-2018": 17,
+    "The": 19,
+    "Authors": 19,
+    "(https://github.com/twbs/bootstrap/graphs/contributors)": 15,
+    "Licensed": 38,
+    "under": 38,
+    "MIT": 37,
+    "(https://github.com/twbs/bootstrap/blob/master/LICENSE)": 36,
+    "--------------------------------------------------------------------------": 40,
+    "(v4.2.1):": 17,
+    "util.js": 4,
+    "------------------------------------------------------------------------": 252,
+    "Private": 3,
+    "TransitionEnd": 3,
+    "Helpers": 3,
+    "Public": 3,
+    "Util": 3,
+    "Api": 27,
+    "Constants": 33,
+    "Class": 33,
+    "Definition": 33,
+    "Data": 24,
+    "implementation": 24,
+    "jQuery": 34,
+    "Check": 6,
+    "for": 8,
+    "Popper": 12,
+    "dependency": 6,
+    "-": 6,
+    "https://popper.js.org": 6,
+    "`document`": 6,
+    "has": 3,
+    "2": 3,
+    "events": 3,
+    "`Event.FOCUSIN`": 3,
+    "and": 4,
+    "`Event.CLICK_DATA_API`": 6,
+    "Do": 3,
+    "not": 3,
+    "move": 3,
+    "in": 5,
+    "`htmlElements`": 3,
+    "array": 3,
+    "It": 3,
+    "will": 3,
+    "remove": 3,
+    "event": 3,
+    "that": 3,
+    "should": 3,
+    "remain": 3,
+    "index.js": 3,
+    "//#": 17,
+    "sourceMappingURL=bootstrap.js.map": 1,
+    "sourceMappingURL=bootstrap.bundle.min.js.map": 1,
+    "sourceMappingURL=bootstrap.min.js.map": 1,
+    "sourceMappingURL=util.js.map": 1,
+    "tooltip.js": 2,
+    "sourceMappingURL=tooltip.js.map": 1,
+    "collapse.js": 2,
+    "sourceMappingURL=collapse.js.map": 1,
+    "scrollspy.js": 2,
+    "sourceMappingURL=scrollspy.js.map": 1,
+    "sourceMappingURL=index.js.map": 1,
+    "dropdown.js": 2,
+    "sourceMappingURL=dropdown.js.map": 1,
+    "tab.js": 2,
+    "sourceMappingURL=tab.js.map": 1,
+    "popover.js": 2,
+    "sourceMappingURL=popover.js.map": 1,
+    "alert.js": 2,
+    "sourceMappingURL=alert.js.map": 1,
+    "button.js": 2,
+    "sourceMappingURL=button.js.map": 1,
+    "carousel.js": 2,
+    "sourceMappingURL=carousel.js.map": 1,
+    "modal.js": 2,
+    "sourceMappingURL=modal.js.map": 1,
+    "toast.js": 2,
+    "sourceMappingURL=toast.js.map": 1,
+    "node": 3,
+    "eslint": 1,
+    "no-process-env:": 1,
+    "0": 1,
+    "eslint-disable": 1,
+    "camelcase": 1,
+    "globals": 1,
+    "Chart:false,": 1,
+    "feather:false": 1,
+    "bsCustomFileInput": 1,
+    "v1.3.1": 1,
+    "(https://github.com/Johann-S/bs-custom-file-input)": 1,
+    "2018": 3,
+    "Johann-S": 1,
+    "<johann.servoire@gmail.com>": 1,
+    "(https://github.com/Johann-S/bs-custom-file-input/blob/master/LICENSE)": 1,
+    "sourceMappingURL=bs-custom-file-input.min.js.map": 1,
+    "v3.3.1": 1,
+    "-ajax,-ajax/jsonp,-ajax/load,-ajax/parseXML,-ajax/script,-ajax/var/location,-ajax/var/nonce,-ajax/var/rquery,-ajax/xhr,-manipulation/_evalUrl,-event/ajax,-effects,-effects/Tween,-effects/animatedSelector": 1,
+    "|": 2,
+    "(c)": 1,
+    "JS": 1,
+    "Foundation": 1,
+    "other": 1,
+    "contributors": 1,
+    "jquery.org/license": 1,
+    "return": 1,
+    "@_jscript_version;": 1,
+    "JavaScript": 1,
+    "Bootstrap's": 1,
+    "docs": 1,
+    "Twitter,": 4,
+    "Inc.": 4,
+    "the": 5,
+    "Creative": 1,
+    "Commons": 1,
+    "Attribution": 1,
+    "3.0": 1,
+    "Unported": 1,
+    "License.": 1,
+    "For": 1,
+    "details,": 1,
+    "see": 1,
+    "https://creativecommons.org/licenses/by/3.0/.": 1,
+    "global": 1,
+    "ClipboardJS:": 1,
+    "false,": 2,
+    "anchors:": 1,
+    "bsCustomFileInput:": 1,
+    "false": 1,
+    "Script": 3,
+    "to": 5,
+    "update": 1,
+    "version": 1,
+    "number": 1,
+    "references": 1,
+    "project.": 1,
+    "2017-2018": 4,
+    "build": 1,
+    "our": 2,
+    "plugins": 1,
+    "use": 3,
+    "them": 1,
+    "separately.": 1,
+    "generate": 1,
+    "SRI": 1,
+    "hashes": 2,
+    "docs.": 1,
+    "Remember": 1,
+    "same": 1,
+    "vendor": 1,
+    "files": 1,
+    "as": 1,
+    "CDN": 1,
+    "ones,": 1,
+    "otherwise": 1,
+    "won't": 1,
+    "match!": 1,
+    "Bootstrap${pluginFilename": 1,
+    "?": 1,
+    "`": 1,
+    "${pluginFilename}`": 1,
+    ":": 1,
+    "''}": 1,
+    "v${pkg.version}": 1,
+    "(${pkg.homepage})": 1,
+    "2011-${year}": 1,
+    "${pkg.author}": 1
+  }
+}

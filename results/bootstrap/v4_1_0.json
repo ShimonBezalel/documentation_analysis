@@ -1,0 +1,475 @@
+{
+  "files": [
+    {
+      "path": ".babelrc.js",
+      "documentations": 0
+    },
+    {
+      "path": "package.js",
+      "documentations": 1
+    },
+    {
+      "path": "sw.js",
+      "documentations": 1
+    },
+    {
+      "path": "bootstrap.bundle.js",
+      "documentations": 0
+    },
+    {
+      "path": "bootstrap.js",
+      "documentations": 66
+    },
+    {
+      "path": "bootstrap.bundle.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "bootstrap.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "util.js",
+      "documentations": 4
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 7
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 7
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 7
+    },
+    {
+      "path": "index.js",
+      "documentations": 2
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 8
+    },
+    {
+      "path": "tab.js",
+      "documentations": 7
+    },
+    {
+      "path": "popover.js",
+      "documentations": 6
+    },
+    {
+      "path": "alert.js",
+      "documentations": 7
+    },
+    {
+      "path": "button.js",
+      "documentations": 7
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 7
+    },
+    {
+      "path": "modal.js",
+      "documentations": 7
+    },
+    {
+      "path": "karma-bundle.conf.js",
+      "documentations": 2
+    },
+    {
+      "path": "karma.conf.js",
+      "documentations": 2
+    },
+    {
+      "path": "util.js",
+      "documentations": 0
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 0
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 0
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 0
+    },
+    {
+      "path": "tab.js",
+      "documentations": 0
+    },
+    {
+      "path": "popover.js",
+      "documentations": 0
+    },
+    {
+      "path": "alert.js",
+      "documentations": 0
+    },
+    {
+      "path": "button.js",
+      "documentations": 0
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 0
+    },
+    {
+      "path": "modal.js",
+      "documentations": 0
+    },
+    {
+      "path": "util.js",
+      "documentations": 3
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 5
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 5
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 5
+    },
+    {
+      "path": "index.js",
+      "documentations": 1
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 6
+    },
+    {
+      "path": "tab.js",
+      "documentations": 5
+    },
+    {
+      "path": "popover.js",
+      "documentations": 4
+    },
+    {
+      "path": "alert.js",
+      "documentations": 5
+    },
+    {
+      "path": "button.js",
+      "documentations": 5
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 5
+    },
+    {
+      "path": "modal.js",
+      "documentations": 5
+    },
+    {
+      "path": "tooltip-viewport.js",
+      "documentations": 0
+    },
+    {
+      "path": "offcanvas.js",
+      "documentations": 0
+    },
+    {
+      "path": "change-version.js",
+      "documentations": 2
+    },
+    {
+      "path": "lint-vars.js",
+      "documentations": 1
+    },
+    {
+      "path": "workbox.js",
+      "documentations": 0
+    },
+    {
+      "path": "rollup.config.js",
+      "documentations": 1
+    },
+    {
+      "path": "vnu-jar.js",
+      "documentations": 0
+    },
+    {
+      "path": "saucelabs-unit-test.js",
+      "documentations": 2
+    },
+    {
+      "path": "generate-sri.js",
+      "documentations": 1
+    },
+    {
+      "path": "postcss.config.js",
+      "documentations": 0
+    },
+    {
+      "path": "docs.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "clipboard.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "anchor.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "holder.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "popper.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "jquery-slim.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "ie-emulation-modes-warning.js",
+      "documentations": 1
+    },
+    {
+      "path": "application.js",
+      "documentations": 2
+    },
+    {
+      "path": "pwa.js",
+      "documentations": 1
+    }
+  ],
+  "histogram": {
+    "global": 4,
+    "Package:true": 1,
+    "workbox:false": 1,
+    "": 1758,
+    "Bootstrap": 48,
+    "v4.1.0": 3,
+    "(https://getbootstrap.com/)": 4,
+    "Copyright": 15,
+    "2011-2018": 5,
+    "The": 8,
+    "Authors": 8,
+    "(https://github.com/twbs/bootstrap/graphs/contributors)": 3,
+    "Licensed": 45,
+    "under": 46,
+    "MIT": 45,
+    "(https://github.com/twbs/bootstrap/blob/master/LICENSE)": 44,
+    "--------------------------------------------------------------------------": 78,
+    "(v4.1.0):": 33,
+    "util.js": 3,
+    "------------------------------------------------------------------------": 234,
+    "Private": 3,
+    "TransitionEnd": 3,
+    "Helpers": 3,
+    "Public": 3,
+    "Util": 3,
+    "Api": 27,
+    "alert.js": 3,
+    "Constants": 30,
+    "Class": 30,
+    "Definition": 30,
+    "Data": 24,
+    "implementation": 24,
+    "jQuery": 32,
+    "button.js": 3,
+    "carousel.js": 3,
+    "collapse.js": 3,
+    "dropdown.js": 3,
+    "Check": 6,
+    "for": 8,
+    "Popper": 13,
+    "dependency": 6,
+    "-": 6,
+    "https://popper.js.org": 6,
+    "modal.js": 3,
+    "tooltip.js": 3,
+    "popover.js": 3,
+    "scrollspy.js": 3,
+    "tab.js": 3,
+    "(v4.0.0):": 3,
+    "index.js": 3,
+    "//#": 16,
+    "sourceMappingURL=bootstrap.js.map": 1,
+    "sourceMappingURL=bootstrap.bundle.min.js.map": 1,
+    "sourceMappingURL=bootstrap.min.js.map": 1,
+    "sourceMappingURL=util.js.map": 1,
+    "sourceMappingURL=tooltip.js.map": 1,
+    "sourceMappingURL=collapse.js.map": 1,
+    "sourceMappingURL=scrollspy.js.map": 1,
+    "sourceMappingURL=index.js.map": 1,
+    "sourceMappingURL=dropdown.js.map": 1,
+    "sourceMappingURL=tab.js.map": 1,
+    "sourceMappingURL=popover.js.map": 1,
+    "sourceMappingURL=alert.js.map": 1,
+    "sourceMappingURL=button.js.map": 1,
+    "sourceMappingURL=carousel.js.map": 1,
+    "sourceMappingURL=modal.js.map": 1,
+    "eslint-env": 2,
+    "node": 2,
+    "eslint": 3,
+    "no-process-env:": 2,
+    "0": 2,
+    "Script": 4,
+    "to": 6,
+    "update": 1,
+    "version": 1,
+    "number": 1,
+    "references": 1,
+    "in": 4,
+    "the": 6,
+    "project.": 1,
+    "2017-2018": 8,
+    "Twitter,": 5,
+    "Inc.": 5,
+    "Set": 1,
+    "find": 1,
+    "unused": 1,
+    "Sass": 1,
+    "variables.": 1,
+    "//": 4,
+    "Only": 1,
+    "transpile": 1,
+    "our": 3,
+    "source": 1,
+    "code": 1,
+    "externalHelpersWhitelist:": 1,
+    "[": 1,
+    "Include": 1,
+    "only": 1,
+    "required": 1,
+    "helpers": 1,
+    "'defineProperties',": 1,
+    "'createClass',": 1,
+    "'inheritsLoose',": 1,
+    "'defineProperty',": 1,
+    "'objectSpread'": 1,
+    "]": 1,
+    "})]const": 1,
+    "globals": 1,
+    "=": 3,
+    "{": 4,
+    "jquery:": 1,
+    "'jQuery',": 1,
+    "Ensure": 1,
+    "we": 1,
+    "use": 3,
+    "which": 1,
+    "is": 4,
+    "always": 1,
+    "available": 1,
+    "even": 1,
+    "noConflict": 1,
+    "mode": 1,
+    "'popper.js':": 1,
+    "'Popper'}if": 1,
+    "(BUNDLE)": 1,
+    "fileDest": 1,
+    "'bootstrap.bundle.js'": 1,
+    "Remove": 1,
+    "last": 1,
+    "entry": 1,
+    "external": 1,
+    "array": 1,
+    "bundle": 1,
+    "external.pop()": 1,
+    "delete": 1,
+    "globals['popper.js']": 1,
+    "plugins.push(resolve())}module.exports": 1,
+    "input:": 1,
+    "path.resolve(__dirname,": 1,
+    "'../js/src/index.js'),": 1,
+    "output:": 1,
+    "banner:": 1,
+    "v${pkg.version}": 1,
+    "(${pkg.homepage})": 1,
+    "2011-${year}": 1,
+    "${pkg.author}": 1,
+    "run": 1,
+    "Sauce": 4,
+    "Labs": 1,
+    "tests.": 1,
+    "https://wiki.saucelabs.com/display/DOCS/Platform+ConfiguratorMac": 1,
+    "Opera": 2,
+    "not": 3,
+    "currently": 3,
+    "supported": 3,
+    "by": 3,
+    "LabsWin": 1,
+    "15+": 1,
+    "LabsiOS": 1,
+    "Chrome": 1,
+    "generate": 1,
+    "SRI": 1,
+    "hashes": 2,
+    "docs.": 1,
+    "Remember": 1,
+    "same": 1,
+    "vendor": 1,
+    "files": 1,
+    "as": 1,
+    "CDN": 1,
+    "ones,": 1,
+    "otherwise": 1,
+    "won't": 1,
+    "match!": 1,
+    "(C)": 1,
+    "Federico": 1,
+    "Zivolo": 1,
+    "2018": 1,
+    "Distributed": 1,
+    "License": 1,
+    "(license": 1,
+    "terms": 1,
+    "are": 1,
+    "at": 1,
+    "http://opensource.org/licenses/MIT).": 1,
+    "sourceMappingURL=popper.min.js.map": 1,
+    "v3.3.1": 1,
+    "-ajax,-ajax/jsonp,-ajax/load,-ajax/parseXML,-ajax/script,-ajax/var/location,-ajax/var/nonce,-ajax/var/rquery,-ajax/xhr,-manipulation/_evalUrl,-event/ajax,-effects,-effects/Tween,-effects/animatedSelector": 1,
+    "|": 2,
+    "(c)": 1,
+    "JS": 1,
+    "Foundation": 1,
+    "and": 1,
+    "other": 1,
+    "contributors": 1,
+    "jquery.org/license": 1,
+    "return": 1,
+    "@_jscript_version;": 1,
+    "JavaScript": 1,
+    "Bootstrap's": 1,
+    "docs": 1,
+    "Creative": 1,
+    "Commons": 1,
+    "Attribution": 1,
+    "3.0": 1,
+    "Unported": 1,
+    "License.": 1,
+    "For": 1,
+    "details,": 1,
+    "see": 1,
+    "https://creativecommons.org/licenses/by/3.0/.": 1,
+    "ClipboardJS:": 1,
+    "false,": 2,
+    "anchors:": 1,
+    "Holder:": 1,
+    "false": 1,
+    "no-console:off": 1
+  }
+}

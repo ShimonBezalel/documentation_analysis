@@ -1,0 +1,457 @@
+{
+  "files": [
+    {
+      "path": "Gruntfile.js",
+      "documentations": 0
+    },
+    {
+      "path": "package.js",
+      "documentations": 1
+    },
+    {
+      "path": "bootstrap.js",
+      "documentations": 56
+    },
+    {
+      "path": "bootstrap.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "util.js",
+      "documentations": 6
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 7
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 6
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 6
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 6
+    },
+    {
+      "path": "tab.js",
+      "documentations": 6
+    },
+    {
+      "path": "popover.js",
+      "documentations": 5
+    },
+    {
+      "path": "alert.js",
+      "documentations": 6
+    },
+    {
+      "path": "button.js",
+      "documentations": 6
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 6
+    },
+    {
+      "path": "modal.js",
+      "documentations": 6
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 0
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 0
+    },
+    {
+      "path": "phantom.js",
+      "documentations": 0
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 0
+    },
+    {
+      "path": "tab.js",
+      "documentations": 0
+    },
+    {
+      "path": "popover.js",
+      "documentations": 0
+    },
+    {
+      "path": "alert.js",
+      "documentations": 0
+    },
+    {
+      "path": "button.js",
+      "documentations": 0
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 0
+    },
+    {
+      "path": "modal.js",
+      "documentations": 0
+    },
+    {
+      "path": "qunit.js",
+      "documentations": 0
+    },
+    {
+      "path": "jquery.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "tether.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "util.js",
+      "documentations": 5
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 6
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 5
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 5
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 5
+    },
+    {
+      "path": "tab.js",
+      "documentations": 5
+    },
+    {
+      "path": "popover.js",
+      "documentations": 4
+    },
+    {
+      "path": "alert.js",
+      "documentations": 5
+    },
+    {
+      "path": "button.js",
+      "documentations": 5
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 5
+    },
+    {
+      "path": "modal.js",
+      "documentations": 5
+    },
+    {
+      "path": "change-version.js",
+      "documentations": 1
+    },
+    {
+      "path": "postcss.js",
+      "documentations": 0
+    },
+    {
+      "path": "sass.js",
+      "documentations": 0
+    },
+    {
+      "path": "libsass.js",
+      "documentations": 0
+    },
+    {
+      "path": "bootstrap.js",
+      "documentations": 56
+    },
+    {
+      "path": "bootstrap.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "tooltip-viewport.js",
+      "documentations": 0
+    },
+    {
+      "path": "offcanvas.js",
+      "documentations": 0
+    },
+    {
+      "path": "ie10-viewport-bug-workaround.js",
+      "documentations": 1
+    },
+    {
+      "path": "docs.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "ie-emulation-modes-warning.js",
+      "documentations": 2
+    },
+    {
+      "path": "clipboard.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "jquery.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "anchor.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "holder.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "tether.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "jekyll-search.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "application.js",
+      "documentations": 2
+    }
+  ],
+  "histogram": {
+    "global": 6,
+    "Package:true": 1,
+    "Bootstrap": 56,
+    "v4.0.0-alpha.3": 4,
+    "(http://getbootstrap.com)": 5,
+    "Copyright": 12,
+    "2011-2016": 6,
+    "The": 8,
+    "Authors": 8,
+    "(https://github.com/twbs/bootstrap/graphs/contributors)": 4,
+    "Licensed": 52,
+    "under": 52,
+    "MIT": 50,
+    "(https://github.com/twbs/bootstrap/blob/master/LICENSE)": 50,
+    "--------------------------------------------------------------------------": 96,
+    "(v4.0.0-alpha.3):": 44,
+    "util.js": 4,
+    "": 1544,
+    "------------------------------------------------------------------------": 312,
+    "Private": 4,
+    "TransitionEnd": 4,
+    "Helpers": 4,
+    "Public": 4,
+    "Util": 4,
+    "Api": 36,
+    "eslint-disable": 4,
+    "no-bitwise": 8,
+    "eslint-enable": 4,
+    "alert.js": 4,
+    "Constants": 40,
+    "Class": 40,
+    "Definition": 40,
+    "Data": 32,
+    "implementation": 32,
+    "jQuery": 44,
+    "button.js": 4,
+    "carousel.js": 4,
+    "collapse.js": 4,
+    "dropdown.js": 4,
+    "modal.js": 4,
+    "scrollspy.js": 4,
+    "tab.js": 4,
+    "Tether": 12,
+    "tooltip.js": 4,
+    "Check": 4,
+    "for": 6,
+    "dependency": 4,
+    "-": 4,
+    "http://github.hubspot.com/tether/": 4,
+    "popover.js": 4,
+    "//#": 11,
+    "sourceMappingURL=util.js.map": 1,
+    "sourceMappingURL=tooltip.js.map": 1,
+    "sourceMappingURL=collapse.js.map": 1,
+    "sourceMappingURL=scrollspy.js.map": 1,
+    "sourceMappingURL=dropdown.js.map": 1,
+    "sourceMappingURL=tab.js.map": 1,
+    "sourceMappingURL=popover.js.map": 1,
+    "sourceMappingURL=alert.js.map": 1,
+    "sourceMappingURL=button.js.map": 1,
+    "sourceMappingURL=carousel.js.map": 1,
+    "sourceMappingURL=modal.js.map": 1,
+    "v3.0.0": 2,
+    "|": 4,
+    "(c)": 2,
+    "Foundation": 2,
+    "jquery.org/license": 2,
+    "o.data&&(o.data=r.param(o.data,o.traditional)),Kb(Fb,o,c,y),k)return": 2,
+    "y;l=r.event&&o.global,l&&0===r.active++&&r.event.trigger(\"ajaxStart\"),o.type=o.type.toUpperCase(),o.hasContent=!Db.test(o.type),f=o.url.replace(zb,\"\"),o.hasContent?o.data&&o.processData&&0===(o.contentType||\"\").indexOf(\"application/x-www-form-urlencoded\")&&(o.data=o.data.replace(yb,\"+\")):(n=o.url.slice(f.length),o.data&&(f+=(sb.test(f)?\"&\":\"?\")+o.data,delete": 2,
+    "o.data),o.cache===!1&&(f=f.replace(Ab,\"\"),n=(sb.test(f)?\"&\":\"?\")+\"_=\"+rb++": 2,
+    "\"+Hb+\";": 2,
+    "in": 7,
+    "o.headers)y.setRequestHeader(m,o.headers[m]);if(o.beforeSend&&(o.beforeSend.call(p,y,o)===!1||k))return": 2,
+    "y.abort();if(x=\"abort\",t.add(o.complete),y.done(o.success),y.fail(o.error),e=Kb(Gb,o,c,y)){if(y.readyState=1,l&&q.trigger(\"ajaxSend\",[y,o]),k)return": 2,
+    "y;o.async&&o.timeout>0&&(i=a.setTimeout(function(){y.abort(\"timeout\")},o.timeout));try{k=!1,e.send(v,A)}catch(z){if(k)throw": 2,
+    "z;A(-1,z)}}else": 2,
+    "A(-1,\"No": 2,
+    "Transport\");function": 2,
+    "A(b,c,d,h){var": 2,
+    "j,m,n,v,w,x=c;k||(k=!0,i&&a.clearTimeout(i),e=void": 2,
+    "0,g=h||\"\",y.readyState=b>0?4:0,j=b>=200&&300>b||304===b,d&&(v=Mb(o,y,d)),v=Nb(o,v,y,j),j?(o.ifModified&&(w=y.getResponseHeader(\"Last-Modified\"),w&&(r.lastModified[f]=w),w=y.getResponseHeader(\"etag\"),w&&(r.etag[f]=w)),204===b||\"HEAD\"===o.type?x=\"nocontent\":304===b?x=\"notmodified\":(x=v.state,m=v.data,n=v.error,j=!n)):(n=x,!b&&x||(x=\"error\",0>b&&(b=0))),y.status=b,y.statusText=(c||x)+\"\",j?s.resolveWith(p,[m,x,y]):s.rejectWith(p,[y,x,n]),y.statusCode(u),u=void": 2,
+    "0,l&&q.trigger(j?\"ajaxSuccess\":\"ajaxError\",[y,o,j?m:n]),t.fireWith(p,[y,x]),l&&(q.trigger(\"ajaxComplete\",[y,o]),--r.active||r.event.trigger(\"ajaxStop\")))}return": 2,
+    "y},getJSON:function(a,b,c){return": 2,
+    "r.get(a,b,c,\"json\")},getScript:function(a,b){return": 2,
+    "r.get(a,void": 2,
+    "0,b,\"script\")}}),r.each([\"get\",\"post\"],function(a,b){r[b]=function(a,c,d,e){return": 2,
+    "r.isFunction(c)&&(e=e||d,d=c,c=void": 2,
+    "0),r.ajax(r.extend({url:a,type:b,dataType:e,data:c,success:d},r.isPlainObject(a)&&a))}}),r._evalUrl=function(a){return": 2,
+    "r.ajax({url:a,type:\"GET\",dataType:\"script\",cache:!0,async:!1,global:!1,\"throws\":!0})},r.fn.extend({wrapAll:function(a){var": 2,
+    "b;return": 2,
+    "this[0]&&(r.isFunction(a)&&(a=a.call(this[0])),b=r(a,this[0].ownerDocument).eq(0).clone(!0),this[0].parentNode&&b.insertBefore(this[0]),b.map(function(){var": 2,
+    "a=this;while(a.firstElementChild)a=a.firstElementChild;return": 2,
+    "a}).append(this)),this},wrapInner:function(a){return": 2,
+    "r.isFunction(a)?this.each(function(b){r(this).wrapInner(a.call(this,b))}):this.each(function(){var": 2,
+    "b=r(this),c=b.contents();c.length?c.wrapAll(a):b.append(a)})},wrap:function(a){var": 2,
+    "b=r.isFunction(a);return": 2,
+    "this.each(function(c){r(this).wrapAll(b?a.call(this,c):a)})},unwrap:function(a){return": 2,
+    "this.parent(a).not(\"body\").each(function(){r(this).replaceWith(this.childNodes)}),this}}),r.expr.pseudos.hidden=function(a){return!r.expr.pseudos.visible(a)},r.expr.pseudos.visible=function(a){return!!(a.offsetWidth||a.offsetHeight||a.getClientRects().length)},r.ajaxSettings.xhr=function(){try{return": 2,
+    "new": 2,
+    "a.XMLHttpRequest}catch(b){}};var": 2,
+    "Ob={0:200,1223:204},Pb=r.ajaxSettings.xhr();o.cors=!!Pb&&\"withCredentials\"in": 2,
+    "Pb,o.ajax=Pb=!!Pb,r.ajaxTransport(function(b){var": 2,
+    "c,d;return": 2,
+    "o.cors||Pb&&!b.crossDomain?{send:function(e,f){var": 2,
+    "g,h=b.xhr();if(h.open(b.type,b.url,b.async,b.username,b.password),b.xhrFields)for(g": 2,
+    "b.xhrFields)h[g]=b.xhrFields[g];b.mimeType&&h.overrideMimeType&&h.overrideMimeType(b.mimeType),b.crossDomain||e[\"X-Requested-With\"]||(e[\"X-Requested-With\"]=\"XMLHttpRequest\");for(g": 2,
+    "e)h.setRequestHeader(g,e[g]);c=function(a){return": 2,
+    "function(){c&&(c=d=h.onload=h.onerror=h.onabort=h.onreadystatechange=null,\"abort\"===a?h.abort():\"error\"===a?\"number\"!=typeof": 2,
+    "h.status?f(0,\"error\"):f(h.status,h.statusText):f(Ob[h.status]||h.status,h.statusText,\"text\"!==(h.responseType||\"text\")||\"string\"!=typeof": 2,
+    "h.responseText?{binary:h.response}:{text:h.responseText},h.getAllResponseHeaders()))}},h.onload=c(),d=h.onerror=c(\"error\"),void": 2,
+    "0!==h.onabort?h.onabort=d:h.onreadystatechange=function(){4===h.readyState&&a.setTimeout(function(){c&&d()})},c=c(\"abort\");try{h.send(b.hasContent&&b.data||null)}catch(i){if(c)throw": 2,
+    "i}},abort:function(){c&&c()}}:void": 2,
+    "0}),r.ajaxPrefilter(function(a){a.crossDomain&&(a.contents.script=!1)}),r.ajaxSetup({accepts:{script:\"text/javascript,": 2,
+    "application/javascript,": 2,
+    "application/ecmascript,": 2,
+    "application/x-ecmascript\"},contents:{script:/\\b(?:java|ecma)script\\b/},converters:{\"text": 2,
+    "script\":function(a){return": 2,
+    "r.globalEval(a),a}}}),r.ajaxPrefilter(\"script\",function(a){void": 2,
+    "0===a.cache&&(a.cache=!1),a.crossDomain&&(a.type=\"GET\")}),r.ajaxTransport(\"script\",function(a){if(a.crossDomain){var": 2,
+    "b,c;return{send:function(e,f){b=r(\"<script>\").prop({charset:a.scriptCharset,src:a.url}).on(\"load": 2,
+    "error\",c=function(a){b.remove(),c=null,a&&f(\"error\"===a.type?404:200,a.type)}),d.head.appendChild(b[0])},abort:function(){c&&c()}}}});var": 2,
+    "Qb=[],Rb=/(=)\\?(?=&|$)|\\?\\?/;r.ajaxSetup({jsonp:\"callback\",jsonpCallback:function(){var": 2,
+    "a=Qb.pop()||r.expando+\"_\"+rb++;return": 2,
+    "this[a]=!0,a}}),r.ajaxPrefilter(\"json": 2,
+    "jsonp\",function(b,c,d){var": 2,
+    "e,f,g,h=b.jsonp!==!1&&(Rb.test(b.url)?\"url\":\"string\"==typeof": 2,
+    "b.data&&0===(b.contentType||\"\").indexOf(\"application/x-www-form-urlencoded\")&&Rb.test(b.data)&&\"data\");return": 2,
+    "h||\"jsonp\"===b.dataTypes[0]?(e=b.jsonpCallback=r.isFunction(b.jsonpCallback)?b.jsonpCallback():b.jsonpCallback,h?b[h]=b[h].replace(Rb,\"$1\"+e):b.jsonp!==!1&&(b.url+=(sb.test(b.url)?\"&\":\"?\")+b.jsonp+\"=\"+e),b.converters[\"script": 2,
+    "json\"]=function(){return": 2,
+    "g||r.error(e+\"": 2,
+    "was": 2,
+    "not": 2,
+    "called\"),g[0]},b.dataTypes[0]=\"json\",f=a[e],a[e]=function(){g=arguments},d.always(function(){void": 2,
+    "0===f?r(a).removeProp(e):a[e]=f,b[e]&&(b.jsonpCallback=c.jsonpCallback,Qb.push(e)),g&&r.isFunction(f)&&f(g[0]),g=f=void": 2,
+    "0}),\"script\"):void": 2,
+    "0}),o.createHTMLDocument=function(){var": 2,
+    "a=d.implementation.createHTMLDocument(\"\").body;return": 2,
+    "a.innerHTML=\"<form></form><form></form>\",2===a.childNodes.length}(),r.parseHTML=function(a,b,c){if(\"string\"!=typeof": 2,
+    "a)return[];\"boolean\"==typeof": 2,
+    "b&&(c=b,b=!1);var": 2,
+    "e,f,g;return": 2,
+    "b||(o.createHTMLDocument?(b=d.implementation.createHTMLDocument(\"\"),e=b.createElement(\"base\"),e.href=d.location.href,b.head.appendChild(e)):b=d),f=B.exec(a),g=!c&&[],f?[b.createElement(f[1])]:(f=oa([a],b,g),g&&g.length&&r(g).remove(),r.merge([],f.childNodes))},r.fn.load=function(a,b,c){var": 2,
+    "d,e,f,g=this,h=a.indexOf(\"": 2,
+    "\");return": 2,
+    "h>-1&&(d=r.trim(a.slice(h)),a=a.slice(0,h)),r.isFunction(b)?(c=b,b=void": 2,
+    "0):b&&\"object\"==typeof": 2,
+    "b&&(e=\"POST\"),g.length>0&&r.ajax({url:a,type:e||\"GET\",dataType:\"html\",data:b}).done(function(a){f=arguments,g.html(d?r(\"<div>\").append(r.parseHTML(a)).find(d):a)}).always(c&&function(a,b){g.each(function(){c.apply(this,f||[a.responseText,b,a])})}),this},r.each([\"ajaxStart\",\"ajaxStop\",\"ajaxComplete\",\"ajaxError\",\"ajaxSuccess\",\"ajaxSend\"],function(a,b){r.fn[b]=function(a){return": 2,
+    "this.on(b,a)}}),r.expr.pseudos.animated=function(a){return": 2,
+    "r.grep(r.timers,function(b){return": 2,
+    "a===b.elem}).length};function": 2,
+    "Sb(a){return": 2,
+    "r.isWindow(a)?a:9===a.nodeType&&a.defaultView}r.offset={setOffset:function(a,b,c){var": 2,
+    "d,e,f,g,h,i,j,k=r.css(a,\"position\"),l=r(a),m={};\"static\"===k&&(a.style.position=\"relative\"),h=l.offset(),f=r.css(a,\"top\"),i=r.css(a,\"left\"),j=(\"absolute\"===k||\"fixed\"===k)&&(f+i).indexOf(\"auto\")>-1,j?(d=l.position(),g=d.top,e=d.left):(g=parseFloat(f)||0,e=parseFloat(i)||0),r.isFunction(b)&&(b=b.call(a,c,r.extend({},h))),null!=b.top&&(m.top=b.top-h.top+g),null!=b.left&&(m.left=b.left-h.left+e),\"using\"in": 2,
+    "b?b.using.call(a,m):l.css(m)}},r.fn.extend({offset:function(a){if(arguments.length)return": 2,
+    "void": 4,
+    "0===a?this:this.each(function(b){r.offset.setOffset(this,a,b)});var": 2,
+    "b,c,d,e,f=this[0];if(f)return": 2,
+    "f.getClientRects().length?(d=f.getBoundingClientRect(),d.width||d.height?(e=f.ownerDocument,c=Sb(e),b=e.documentElement,{top:d.top+c.pageYOffset-b.clientTop,left:d.left+c.pageXOffset-b.clientLeft}):d):{top:0,left:0}},position:function(){if(this[0]){var": 2,
+    "a,b,c=this[0],d={top:0,left:0};return\"fixed\"===r.css(c,\"position\")?b=c.getBoundingClientRect():(a=this.offsetParent(),b=this.offset(),r.nodeName(a[0],\"html\")||(d=a.offset()),d={top:d.top+r.css(a[0],\"borderTopWidth\",!0),left:d.left+r.css(a[0],\"borderLeftWidth\",!0)}),{top:b.top-d.top-r.css(c,\"marginTop\",!0),left:b.left-d.left-r.css(c,\"marginLeft\",!0)}}},offsetParent:function(){return": 2,
+    "this.map(function(){var": 2,
+    "a=this.offsetParent;while(a&&\"static\"===r.css(a,\"position\"))a=a.offsetParent;return": 2,
+    "a||pa})}}),r.each({scrollLeft:\"pageXOffset\",scrollTop:\"pageYOffset\"},function(a,b){var": 2,
+    "c=\"pageYOffset\"===b;r.fn[a]=function(d){return": 2,
+    "S(this,function(a,d,e){var": 2,
+    "f=Sb(a);return": 2,
+    "0===e?f?f[b]:a[d]:void(f?f.scrollTo(c?f.pageXOffset:e,c?e:f.pageYOffset):a[d]=e)},a,d,arguments.length)}}),r.each([\"top\",\"left\"],function(a,b){r.cssHooks[b]=Na(o.pixelPosition,function(a,c){return": 2,
+    "c?(c=Ma(a,b),Ka.test(c)?r(a).position()[b]+\"px\":c):void": 2,
+    "0})}),r.each({Height:\"height\",Width:\"width\"},function(a,b){r.each({padding:\"inner\"+a,content:b,\"\":\"outer\"+a},function(c,d){r.fn[d]=function(e,f){var": 2,
+    "g=arguments.length&&(c||\"boolean\"!=typeof": 2,
+    "e),h=c||(e===!0||f===!0?\"margin\":\"border\");return": 2,
+    "S(this,function(b,c,e){var": 2,
+    "f;return": 2,
+    "r.isWindow(b)?0===d.indexOf(\"outer\")?b[\"inner\"+a]:b.document.documentElement[\"client\"+a]:9===b.nodeType?(f=b.documentElement,Math.max(b.body[\"scroll\"+a],f[\"scroll\"+a],b.body[\"offset\"+a],f[\"offset\"+a],f[\"client\"+a])):void": 2,
+    "0===e?r.css(b,c,h):r.style(b,c,e,h)},b,g?e:void": 2,
+    "0,g)}})}),r.fn.extend({bind:function(a,b,c){return": 2,
+    "this.on(a,null,b,c)},unbind:function(a,b){return": 2,
+    "this.off(a,null,b)},delegate:function(a,b,c,d){return": 2,
+    "this.on(b,a,c,d)},undelegate:function(a,b,c){return": 2,
+    "define&&define.amd&&define(\"jquery\",[],function(){return": 2,
+    "r});var": 2,
+    "Tb=a.jQuery,Ub=a.$;return": 2,
+    "r.noConflict=function(b){return": 2,
+    "a.$===r&&(a.$=Ub),b&&a.jQuery===r&&(a.jQuery=Tb),r},b||(a.jQuery=a.$=r),r});": 2,
+    "Script": 1,
+    "to": 1,
+    "update": 1,
+    "version": 1,
+    "number": 1,
+    "references": 1,
+    "the": 3,
+    "project.": 1,
+    "2015": 2,
+    "Twitter,": 4,
+    "Inc.": 4,
+    "IE10": 1,
+    "viewport": 1,
+    "hack": 1,
+    "Surface/desktop": 1,
+    "Windows": 1,
+    "8": 1,
+    "bug": 1,
+    "2014-2015": 4,
+    "Creative": 2,
+    "Commons": 2,
+    "Attribution": 2,
+    "3.0": 2,
+    "Unported": 2,
+    "License.": 2,
+    "For": 2,
+    "details,": 2,
+    "see": 2,
+    "https://creativecommons.org/licenses/by/3.0/.": 2,
+    "return": 1,
+    "@_jscript_version;": 1,
+    "JavaScript": 1,
+    "Bootstrap's": 1,
+    "docs": 1,
+    "Clipboard,": 1,
+    "anchors": 1
+  }
+}

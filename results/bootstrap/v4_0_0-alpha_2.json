@@ -1,0 +1,576 @@
+{
+  "files": [
+    {
+      "path": "Gruntfile.js",
+      "documentations": 0
+    },
+    {
+      "path": "package.js",
+      "documentations": 1
+    },
+    {
+      "path": "npm.js",
+      "documentations": 0
+    },
+    {
+      "path": "bootstrap.js",
+      "documentations": 0
+    },
+    {
+      "path": "bootstrap.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "util.js",
+      "documentations": 3
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 6
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 5
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 5
+    },
+    {
+      "path": "tab.js",
+      "documentations": 5
+    },
+    {
+      "path": "popover.js",
+      "documentations": 4
+    },
+    {
+      "path": "alert.js",
+      "documentations": 5
+    },
+    {
+      "path": "button.js",
+      "documentations": 5
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 5
+    },
+    {
+      "path": "modal.js",
+      "documentations": 5
+    },
+    {
+      "path": "util.js",
+      "documentations": 4
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 7
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 6
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 6
+    },
+    {
+      "path": "tab.js",
+      "documentations": 6
+    },
+    {
+      "path": "popover.js",
+      "documentations": 5
+    },
+    {
+      "path": "alert.js",
+      "documentations": 6
+    },
+    {
+      "path": "button.js",
+      "documentations": 6
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 6
+    },
+    {
+      "path": "modal.js",
+      "documentations": 6
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 0
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 0
+    },
+    {
+      "path": "phantom.js",
+      "documentations": 0
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 0
+    },
+    {
+      "path": "tab.js",
+      "documentations": 0
+    },
+    {
+      "path": "popover.js",
+      "documentations": 0
+    },
+    {
+      "path": "alert.js",
+      "documentations": 0
+    },
+    {
+      "path": "button.js",
+      "documentations": 0
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 0
+    },
+    {
+      "path": "modal.js",
+      "documentations": 0
+    },
+    {
+      "path": "qunit.js",
+      "documentations": 0
+    },
+    {
+      "path": "jquery.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "tether.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "util.js",
+      "documentations": 3
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 6
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 5
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 5
+    },
+    {
+      "path": "tab.js",
+      "documentations": 5
+    },
+    {
+      "path": "popover.js",
+      "documentations": 4
+    },
+    {
+      "path": "alert.js",
+      "documentations": 5
+    },
+    {
+      "path": "button.js",
+      "documentations": 5
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 5
+    },
+    {
+      "path": "modal.js",
+      "documentations": 5
+    },
+    {
+      "path": "change-version.js",
+      "documentations": 1
+    },
+    {
+      "path": "bs-commonjs-generator.js",
+      "documentations": 1
+    },
+    {
+      "path": "sass.js",
+      "documentations": 0
+    },
+    {
+      "path": "libsass.js",
+      "documentations": 0
+    },
+    {
+      "path": "npm.js",
+      "documentations": 0
+    },
+    {
+      "path": "bootstrap.js",
+      "documentations": 0
+    },
+    {
+      "path": "bootstrap.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "util.js",
+      "documentations": 3
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 6
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 5
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 5
+    },
+    {
+      "path": "tab.js",
+      "documentations": 5
+    },
+    {
+      "path": "popover.js",
+      "documentations": 4
+    },
+    {
+      "path": "alert.js",
+      "documentations": 5
+    },
+    {
+      "path": "button.js",
+      "documentations": 5
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 5
+    },
+    {
+      "path": "modal.js",
+      "documentations": 5
+    },
+    {
+      "path": "tooltip-viewport.js",
+      "documentations": 0
+    },
+    {
+      "path": "offcanvas.js",
+      "documentations": 0
+    },
+    {
+      "path": "ie10-viewport-bug-workaround.js",
+      "documentations": 1
+    },
+    {
+      "path": "docs.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "ie-emulation-modes-warning.js",
+      "documentations": 2
+    },
+    {
+      "path": "clipboard.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "jquery.min.js",
+      "documentations": 2
+    },
+    {
+      "path": "anchor.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "holder.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "tether.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "jekyll-search.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "application.js",
+      "documentations": 2
+    }
+  ],
+  "histogram": {
+    "global": 6,
+    "Package:true": 1,
+    "Bootstrap": 43,
+    "v4.0.0-alpha.2": 2,
+    "(http://getbootstrap.com)": 3,
+    "Copyright": 7,
+    "2011-2015": 3,
+    "Twitter,": 7,
+    "Inc.": 9,
+    "Licensed": 47,
+    "under": 47,
+    "MIT": 45,
+    "(https://github.com/twbs/bootstrap/blob/master/LICENSE)": 45,
+    "": 2180,
+    "--------------------------------------------------------------------------": 88,
+    "(v4.0.0-alpha.2):": 40,
+    "util.js": 4,
+    "------------------------------------------------------------------------": 280,
+    "Private": 4,
+    "TransitionEnd": 4,
+    "Helpers": 4,
+    "Public": 4,
+    "Util": 4,
+    "Api": 32,
+    "Tether": 12,
+    "tooltip.js": 4,
+    "Check": 4,
+    "for": 7,
+    "dependency": 4,
+    "-": 4,
+    "http://github.hubspot.com/tether/": 4,
+    "Constants": 36,
+    "Class": 36,
+    "Definition": 36,
+    "jQuery": 40,
+    "collapse.js": 4,
+    "Data": 28,
+    "implementation": 28,
+    "dropdown.js": 4,
+    "tab.js": 4,
+    "popover.js": 4,
+    "alert.js": 4,
+    "button.js": 4,
+    "carousel.js": 4,
+    "modal.js": 4,
+    "//#": 10,
+    "sourceMappingURL=util.js.map": 1,
+    "sourceMappingURL=tooltip.js.map": 1,
+    "sourceMappingURL=collapse.js.map": 1,
+    "sourceMappingURL=dropdown.js.map": 1,
+    "sourceMappingURL=tab.js.map": 1,
+    "sourceMappingURL=popover.js.map": 1,
+    "sourceMappingURL=alert.js.map": 1,
+    "sourceMappingURL=button.js.map": 1,
+    "sourceMappingURL=carousel.js.map": 1,
+    "sourceMappingURL=modal.js.map": 1,
+    "v2.1.4": 2,
+    "|": 4,
+    "(c)": 2,
+    "2005,": 2,
+    "2015": 3,
+    "Foundation,": 2,
+    "jquery.org/license": 2,
+    "k.data&&(k.data=n.param(k.data,k.traditional)),rb(lb,k,b,v),2===t)return": 2,
+    "v;i=n.event&&k.global,i&&0===n.active++&&n.event.trigger(\"ajaxStart\"),k.type=k.type.toUpperCase(),k.hasContent=!ib.test(k.type),d=k.url,k.hasContent||(k.data&&(d=k.url+=(db.test(d)?\"&\":\"?\")+k.data,delete": 2,
+    "\"+nb+\";": 2,
+    "in": 13,
+    "k.headers)v.setRequestHeader(j,k.headers[j]);if(k.beforeSend&&(k.beforeSend.call(l,v,k)===!1||2===t))return": 2,
+    "v.abort();u=\"abort\";for(j": 2,
+    "in{success:1,error:1,complete:1})v[j](k[j]);if(c=rb(mb,k,b,v)){v.readyState=1,i&&m.trigger(\"ajaxSend\",[v,k]),k.async&&k.timeout>0&&(g=setTimeout(function(){v.abort(\"timeout\")},k.timeout));try{t=1,c.send(r,x)}catch(w){if(!(2>t))throw": 2,
+    "w;x(-1,w)}}else": 2,
+    "x(-1,\"No": 2,
+    "Transport\");function": 2,
+    "x(a,b,f,h){var": 2,
+    "j,r,s,u,w,x=b;2!==t&&(t=2,g&&clearTimeout(g),c=void": 2,
+    "0,e=h||\"\",v.readyState=a>0?4:0,j=a>=200&&300>a||304===a,f&&(u=tb(k,v,f)),u=ub(k,u,v,j),j?(k.ifModified&&(w=v.getResponseHeader(\"Last-Modified\"),w&&(n.lastModified[d]=w),w=v.getResponseHeader(\"etag\"),w&&(n.etag[d]=w)),204===a||\"HEAD\"===k.type?x=\"nocontent\":304===a?x=\"notmodified\":(x=u.state,r=u.data,s=u.error,j=!s)):(s=x,(a||!x)&&(x=\"error\",0>a&&(a=0))),v.status=a,v.statusText=(b||x)+\"\",j?o.resolveWith(l,[r,x,v]):o.rejectWith(l,[v,x,s]),v.statusCode(q),q=void": 2,
+    "0,i&&m.trigger(j?\"ajaxSuccess\":\"ajaxError\",[v,k,j?r:s]),p.fireWith(l,[v,x]),i&&(m.trigger(\"ajaxComplete\",[v,k]),--n.active||n.event.trigger(\"ajaxStop\")))}return": 2,
+    "v},getJSON:function(a,b,c){return": 2,
+    "n.get(a,b,c,\"json\")},getScript:function(a,b){return": 2,
+    "n.get(a,void": 2,
+    "0,b,\"script\")}}),n.each([\"get\",\"post\"],function(a,b){n[b]=function(a,c,d,e){return": 2,
+    "n.isFunction(c)&&(e=e||d,d=c,c=void": 2,
+    "0),n.ajax({url:a,type:b,dataType:e,data:c,success:d})}}),n._evalUrl=function(a){return": 2,
+    "n.ajax({url:a,type:\"GET\",dataType:\"script\",async:!1,global:!1,\"throws\":!0})},n.fn.extend({wrapAll:function(a){var": 2,
+    "b;return": 4,
+    "n.isFunction(a)?this.each(function(b){n(this).wrapAll(a.call(this,b))}):(this[0]&&(b=n(a,this[0].ownerDocument).eq(0).clone(!0),this[0].parentNode&&b.insertBefore(this[0]),b.map(function(){var": 2,
+    "a=this;while(a.firstElementChild)a=a.firstElementChild;return": 2,
+    "a}).append(this)),this)},wrapInner:function(a){return": 2,
+    "this.each(n.isFunction(a)?function(b){n(this).wrapInner(a.call(this,b))}:function(){var": 2,
+    "b=n(this),c=b.contents();c.length?c.wrapAll(a):b.append(a)})},wrap:function(a){var": 2,
+    "b=n.isFunction(a);return": 2,
+    "this.each(function(c){n(this).wrapAll(b?a.call(this,c):a)})},unwrap:function(){return": 2,
+    "this.parent().each(function(){n.nodeName(this,\"body\")||n(this).replaceWith(this.childNodes)}).end()}}),n.expr.filters.hidden=function(a){return": 2,
+    "a.offsetWidth<=0&&a.offsetHeight<=0},n.expr.filters.visible=function(a){return!n.expr.filters.hidden(a)};var": 2,
+    "vb=/%20/g,wb=/\\[\\]$/,xb=/\\r?\\n/g,yb=/^(?:submit|button|image|reset|file)$/i,zb=/^(?:input|select|textarea|keygen)/i;function": 2,
+    "Ab(a,b,c,d){var": 2,
+    "e;if(n.isArray(b))n.each(b,function(b,e){c||wb.test(a)?d(a,e):Ab(a+\"[\"+(\"object\"==typeof": 2,
+    "e?b:\"\")+\"]\",e,c,d)});else": 2,
+    "if(c||\"object\"!==n.type(b))d(a,b);else": 2,
+    "for(e": 2,
+    "b)Ab(a+\"[\"+e+\"]\",b[e],c,d)}n.param=function(a,b){var": 2,
+    "c,d=[],e=function(a,b){b=n.isFunction(b)?b():null==b?\"\":b,d[d.length]=encodeURIComponent(a)+\"=\"+encodeURIComponent(b)};if(void": 2,
+    "0===b&&(b=n.ajaxSettings&&n.ajaxSettings.traditional),n.isArray(a)||a.jquery&&!n.isPlainObject(a))n.each(a,function(){e(this.name,this.value)});else": 2,
+    "for(c": 2,
+    "a)Ab(c,a[c],b,e);return": 2,
+    "d.join(\"&\").replace(vb,\"+\")},n.fn.extend({serialize:function(){return": 2,
+    "n.param(this.serializeArray())},serializeArray:function(){return": 2,
+    "this.map(function(){var": 4,
+    "a=n.prop(this,\"elements\");return": 2,
+    "a?n.makeArray(a):this}).filter(function(){var": 2,
+    "a=this.type;return": 2,
+    "this.name&&!n(this).is(\":disabled\")&&zb.test(this.nodeName)&&!yb.test(a)&&(this.checked||!T.test(a))}).map(function(a,b){var": 2,
+    "c=n(this).val();return": 2,
+    "null==c?null:n.isArray(c)?n.map(c,function(a){return{name:b.name,value:a.replace(xb,\"\\r\\n\")}}):{name:b.name,value:c.replace(xb,\"\\r\\n\")}}).get()}}),n.ajaxSettings.xhr=function(){try{return": 2,
+    "new": 2,
+    "XMLHttpRequest}catch(a){}};var": 2,
+    "Bb=0,Cb={},Db={0:200,1223:204},Eb=n.ajaxSettings.xhr();a.attachEvent&&a.attachEvent(\"onunload\",function(){for(var": 2,
+    "a": 2,
+    "Cb)Cb[a]()}),k.cors=!!Eb&&\"withCredentials\"in": 2,
+    "Eb,k.ajax=Eb=!!Eb,n.ajaxTransport(function(a){var": 2,
+    "k.cors||Eb&&!a.crossDomain?{send:function(c,d){var": 2,
+    "e,f=a.xhr(),g=++Bb;if(f.open(a.type,a.url,a.async,a.username,a.password),a.xhrFields)for(e": 2,
+    "a.xhrFields)f[e]=a.xhrFields[e];a.mimeType&&f.overrideMimeType&&f.overrideMimeType(a.mimeType),a.crossDomain||c[\"X-Requested-With\"]||(c[\"X-Requested-With\"]=\"XMLHttpRequest\");for(e": 2,
+    "c)f.setRequestHeader(e,c[e]);b=function(a){return": 2,
+    "function(){b&&(delete": 2,
+    "Cb[g],b=f.onload=f.onerror=null,\"abort\"===a?f.abort():\"error\"===a?d(f.status,f.statusText):d(Db[f.status]||f.status,f.statusText,\"string\"==typeof": 2,
+    "f.responseText?{text:f.responseText}:void": 2,
+    "0,f.getAllResponseHeaders()))}},f.onload=b(),f.onerror=b(\"error\"),b=Cb[g]=b(\"abort\");try{f.send(a.hasContent&&a.data||null)}catch(h){if(b)throw": 2,
+    "h}},abort:function(){b&&b()}}:void": 2,
+    "0}),n.ajaxSetup({accepts:{script:\"text/javascript,": 2,
+    "application/javascript,": 2,
+    "application/ecmascript,": 2,
+    "application/x-ecmascript\"},contents:{script:/(?:java|ecma)script/},converters:{\"text": 2,
+    "script\":function(a){return": 2,
+    "n.globalEval(a),a}}}),n.ajaxPrefilter(\"script\",function(a){void": 2,
+    "0===a.cache&&(a.cache=!1),a.crossDomain&&(a.type=\"GET\")}),n.ajaxTransport(\"script\",function(a){if(a.crossDomain){var": 2,
+    "b,c;return{send:function(d,e){b=n(\"<script>\").prop({async:!0,charset:a.scriptCharset,src:a.url}).on(\"load": 2,
+    "error\",c=function(a){b.remove(),c=null,a&&e(\"error\"===a.type?404:200,a.type)}),l.head.appendChild(b[0])},abort:function(){c&&c()}}}});var": 2,
+    "Fb=[],Gb=/(=)\\?(?=&|$)|\\?\\?/;n.ajaxSetup({jsonp:\"callback\",jsonpCallback:function(){var": 2,
+    "a=Fb.pop()||n.expando+\"_\"+cb++;return": 2,
+    "this[a]=!0,a}}),n.ajaxPrefilter(\"json": 2,
+    "jsonp\",function(b,c,d){var": 2,
+    "e,f,g,h=b.jsonp!==!1&&(Gb.test(b.url)?\"url\":\"string\"==typeof": 2,
+    "b.data&&!(b.contentType||\"\").indexOf(\"application/x-www-form-urlencoded\")&&Gb.test(b.data)&&\"data\");return": 2,
+    "h||\"jsonp\"===b.dataTypes[0]?(e=b.jsonpCallback=n.isFunction(b.jsonpCallback)?b.jsonpCallback():b.jsonpCallback,h?b[h]=b[h].replace(Gb,\"$1\"+e):b.jsonp!==!1&&(b.url+=(db.test(b.url)?\"&\":\"?\")+b.jsonp+\"=\"+e),b.converters[\"script": 2,
+    "json\"]=function(){return": 2,
+    "g||n.error(e+\"": 2,
+    "was": 2,
+    "not": 2,
+    "called\"),g[0]},b.dataTypes[0]=\"json\",f=a[e],a[e]=function(){g=arguments},d.always(function(){a[e]=f,b[e]&&(b.jsonpCallback=c.jsonpCallback,Fb.push(e)),g&&n.isFunction(f)&&f(g[0]),g=f=void": 2,
+    "0}),\"script\"):void": 2,
+    "0}),n.parseHTML=function(a,b,c){if(!a||\"string\"!=typeof": 2,
+    "a)return": 2,
+    "null;\"boolean\"==typeof": 2,
+    "b&&(c=b,b=!1),b=b||l;var": 2,
+    "d=v.exec(a),e=!c&&[];return": 2,
+    "d?[b.createElement(d[1])]:(d=n.buildFragment([a],b,e),e&&e.length&&n(e).remove(),n.merge([],d.childNodes))};var": 2,
+    "Hb=n.fn.load;n.fn.load=function(a,b,c){if(\"string\"!=typeof": 2,
+    "a&&Hb)return": 2,
+    "Hb.apply(this,arguments);var": 2,
+    "d,e,f,g=this,h=a.indexOf(\"": 2,
+    "\");return": 2,
+    "h>=0&&(d=n.trim(a.slice(h)),a=a.slice(0,h)),n.isFunction(b)?(c=b,b=void": 2,
+    "0):b&&\"object\"==typeof": 2,
+    "b&&(e=\"POST\"),g.length>0&&n.ajax({url:a,type:e,dataType:\"html\",data:b}).done(function(a){f=arguments,g.html(d?n(\"<div>\").append(n.parseHTML(a)).find(d):a)}).complete(c&&function(a,b){g.each(c,f||[a.responseText,b,a])}),this},n.each([\"ajaxStart\",\"ajaxStop\",\"ajaxComplete\",\"ajaxError\",\"ajaxSuccess\",\"ajaxSend\"],function(a,b){n.fn[b]=function(a){return": 2,
+    "this.on(b,a)}}),n.expr.filters.animated=function(a){return": 2,
+    "n.grep(n.timers,function(b){return": 2,
+    "a===b.elem}).length};var": 2,
+    "Ib=a.document.documentElement;function": 2,
+    "Jb(a){return": 2,
+    "n.isWindow(a)?a:9===a.nodeType&&a.defaultView}n.offset={setOffset:function(a,b,c){var": 2,
+    "d,e,f,g,h,i,j,k=n.css(a,\"position\"),l=n(a),m={};\"static\"===k&&(a.style.position=\"relative\"),h=l.offset(),f=n.css(a,\"top\"),i=n.css(a,\"left\"),j=(\"absolute\"===k||\"fixed\"===k)&&(f+i).indexOf(\"auto\")>-1,j?(d=l.position(),g=d.top,e=d.left):(g=parseFloat(f)||0,e=parseFloat(i)||0),n.isFunction(b)&&(b=b.call(a,c,h)),null!=b.top&&(m.top=b.top-h.top+g),null!=b.left&&(m.left=b.left-h.left+e),\"using\"in": 2,
+    "b?b.using.call(a,m):l.css(m)}},n.fn.extend({offset:function(a){if(arguments.length)return": 2,
+    "void": 4,
+    "0===a?this:this.each(function(b){n.offset.setOffset(this,a,b)});var": 2,
+    "b,c,d=this[0],e={top:0,left:0},f=d&&d.ownerDocument;if(f)return": 2,
+    "b=f.documentElement,n.contains(b,d)?(typeof": 2,
+    "d.getBoundingClientRect!==U&&(e=d.getBoundingClientRect()),c=Jb(f),{top:e.top+c.pageYOffset-b.clientTop,left:e.left+c.pageXOffset-b.clientLeft}):e},position:function(){if(this[0]){var": 2,
+    "a,b,c=this[0],d={top:0,left:0};return\"fixed\"===n.css(c,\"position\")?b=c.getBoundingClientRect():(a=this.offsetParent(),b=this.offset(),n.nodeName(a[0],\"html\")||(d=a.offset()),d.top+=n.css(a[0],\"borderTopWidth\",!0),d.left+=n.css(a[0],\"borderLeftWidth\",!0)),{top:b.top-d.top-n.css(c,\"marginTop\",!0),left:b.left-d.left-n.css(c,\"marginLeft\",!0)}}},offsetParent:function(){return": 2,
+    "a=this.offsetParent||Ib;while(a&&!n.nodeName(a,\"html\")&&\"static\"===n.css(a,\"position\"))a=a.offsetParent;return": 2,
+    "a||Ib})}}),n.each({scrollLeft:\"pageXOffset\",scrollTop:\"pageYOffset\"},function(b,c){var": 2,
+    "d=\"pageYOffset\"===c;n.fn[b]=function(e){return": 2,
+    "J(this,function(b,e,f){var": 2,
+    "g=Jb(b);return": 2,
+    "0===f?g?g[c]:b[e]:void(g?g.scrollTo(d?a.pageXOffset:f,d?f:a.pageYOffset):b[e]=f)},b,e,arguments.length,null)}}),n.each([\"top\",\"left\"],function(a,b){n.cssHooks[b]=ya(k.pixelPosition,function(a,c){return": 2,
+    "c?(c=xa(a,b),va.test(c)?n(a).position()[b]+\"px\":c):void": 2,
+    "0})}),n.each({Height:\"height\",Width:\"width\"},function(a,b){n.each({padding:\"inner\"+a,content:b,\"\":\"outer\"+a},function(c,d){n.fn[d]=function(d,e){var": 2,
+    "f=arguments.length&&(c||\"boolean\"!=typeof": 2,
+    "d),g=c||(d===!0||e===!0?\"margin\":\"border\");return": 2,
+    "J(this,function(b,c,d){var": 2,
+    "e;return": 2,
+    "n.isWindow(b)?b.document.documentElement[\"client\"+a]:9===b.nodeType?(e=b.documentElement,Math.max(b.body[\"scroll\"+a],e[\"scroll\"+a],b.body[\"offset\"+a],e[\"offset\"+a],e[\"client\"+a])):void": 2,
+    "0===d?n.css(b,c,g):n.style(b,c,d,g)},b,f?d:void": 2,
+    "0,f,null)}})}),n.fn.size=function(){return": 2,
+    "this.length},n.fn.andSelf=n.fn.addBack,\"function\"==typeof": 2,
+    "define&&define.amd&&define(\"jquery\",[],function(){return": 2,
+    "n});var": 2,
+    "Kb=a.jQuery,Lb=a.$;return": 2,
+    "n.noConflict=function(b){return": 2,
+    "a.$===n&&(a.$=Lb),b&&a.jQuery===n&&(a.jQuery=Kb),n},typeof": 2,
+    "b===U&&(a.jQuery=a.$=n),n});": 2,
+    "tether": 2,
+    "1.1.0": 2,
+    "Script": 1,
+    "to": 1,
+    "update": 1,
+    "version": 1,
+    "number": 1,
+    "references": 1,
+    "the": 4,
+    "project.": 1,
+    "Grunt": 1,
+    "task": 1,
+    "CommonJS": 1,
+    "module": 1,
+    "generation": 1,
+    "http://getbootstrap.com": 1,
+    "2014-2015": 3,
+    "IE10": 1,
+    "viewport": 1,
+    "hack": 1,
+    "Surface/desktop": 1,
+    "Windows": 1,
+    "8": 1,
+    "bug": 1,
+    "Creative": 2,
+    "Commons": 2,
+    "Attribution": 2,
+    "3.0": 2,
+    "Unported": 2,
+    "License.": 2,
+    "For": 2,
+    "details,": 2,
+    "see": 2,
+    "https://creativecommons.org/licenses/by/3.0/.": 2,
+    "return": 1,
+    "@_jscript_version;": 1,
+    "JavaScript": 1,
+    "Bootstrap's": 1,
+    "docs": 1,
+    "Clipboard,": 1,
+    "anchors": 1
+  }
+}

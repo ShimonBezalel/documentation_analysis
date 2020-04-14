@@ -1,0 +1,335 @@
+{
+  "files": [
+    {
+      "path": "Gruntfile.js",
+      "documentations": 1
+    },
+    {
+      "path": "package.js",
+      "documentations": 1
+    },
+    {
+      "path": "bootstrap.js",
+      "documentations": 56
+    },
+    {
+      "path": "bootstrap.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "util.js",
+      "documentations": 4
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 7
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 6
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 6
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 8
+    },
+    {
+      "path": "tab.js",
+      "documentations": 6
+    },
+    {
+      "path": "popover.js",
+      "documentations": 5
+    },
+    {
+      "path": "alert.js",
+      "documentations": 6
+    },
+    {
+      "path": "button.js",
+      "documentations": 6
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 6
+    },
+    {
+      "path": "modal.js",
+      "documentations": 6
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 0
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 0
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 0
+    },
+    {
+      "path": "tab.js",
+      "documentations": 0
+    },
+    {
+      "path": "popover.js",
+      "documentations": 0
+    },
+    {
+      "path": "alert.js",
+      "documentations": 0
+    },
+    {
+      "path": "button.js",
+      "documentations": 0
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 0
+    },
+    {
+      "path": "modal.js",
+      "documentations": 0
+    },
+    {
+      "path": "qunit.js",
+      "documentations": 0
+    },
+    {
+      "path": "util.js",
+      "documentations": 3
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 6
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 5
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 5
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 7
+    },
+    {
+      "path": "tab.js",
+      "documentations": 5
+    },
+    {
+      "path": "popover.js",
+      "documentations": 4
+    },
+    {
+      "path": "alert.js",
+      "documentations": 5
+    },
+    {
+      "path": "button.js",
+      "documentations": 5
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 5
+    },
+    {
+      "path": "modal.js",
+      "documentations": 5
+    },
+    {
+      "path": "tooltip-viewport.js",
+      "documentations": 0
+    },
+    {
+      "path": "offcanvas.js",
+      "documentations": 0
+    },
+    {
+      "path": "change-version.js",
+      "documentations": 2
+    },
+    {
+      "path": "postcss.config.js",
+      "documentations": 0
+    },
+    {
+      "path": "stamp.js",
+      "documentations": 1
+    },
+    {
+      "path": "ie10-viewport-bug-workaround.js",
+      "documentations": 1
+    },
+    {
+      "path": "docs.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "ie-emulation-modes-warning.js",
+      "documentations": 2
+    },
+    {
+      "path": "clipboard.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "anchor.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "holder.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "popper.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "jquery-slim.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "application.js",
+      "documentations": 2
+    }
+  ],
+  "histogram": {
+    "Bootstrap's": 2,
+    "Gruntfile": 1,
+    "https://getbootstrap.com": 1,
+    "Copyright": 14,
+    "2013-2017": 2,
+    "The": 7,
+    "Bootstrap": 43,
+    "Authors": 7,
+    "Twitter,": 5,
+    "Inc.": 5,
+    "Licensed": 41,
+    "under": 42,
+    "MIT": 40,
+    "(https://github.com/twbs/bootstrap/blob/master/LICENSE)": 39,
+    "global": 9,
+    "Package:true": 1,
+    "v4.0.0-beta": 2,
+    "(https://getbootstrap.com)": 3,
+    "2011-2017": 4,
+    "(https://github.com/twbs/bootstrap/graphs/contributors)": 2,
+    "--------------------------------------------------------------------------": 72,
+    "(v4.0.0-beta):": 33,
+    "util.js": 3,
+    "": 1156,
+    "------------------------------------------------------------------------": 234,
+    "Private": 3,
+    "TransitionEnd": 3,
+    "Helpers": 3,
+    "Public": 3,
+    "Util": 3,
+    "Api": 27,
+    "alert.js": 3,
+    "Constants": 30,
+    "Class": 30,
+    "Definition": 30,
+    "Data": 24,
+    "implementation": 24,
+    "jQuery": 31,
+    "button.js": 3,
+    "carousel.js": 3,
+    "collapse.js": 3,
+    "Popper": 18,
+    "dropdown.js": 3,
+    "Check": 6,
+    "for": 8,
+    "dependency": 6,
+    "-": 6,
+    "https://popper.js.org": 6,
+    "modal.js": 3,
+    "scrollspy.js": 3,
+    "tab.js": 3,
+    "tooltip.js": 3,
+    "popover.js": 3,
+    "//#": 11,
+    "sourceMappingURL=util.js.map": 1,
+    "sourceMappingURL=tooltip.js.map": 1,
+    "sourceMappingURL=collapse.js.map": 1,
+    "sourceMappingURL=scrollspy.js.map": 1,
+    "sourceMappingURL=dropdown.js.map": 1,
+    "sourceMappingURL=tab.js.map": 1,
+    "sourceMappingURL=popover.js.map": 1,
+    "sourceMappingURL=alert.js.map": 1,
+    "sourceMappingURL=button.js.map": 1,
+    "sourceMappingURL=carousel.js.map": 1,
+    "sourceMappingURL=modal.js.map": 1,
+    "Script": 1,
+    "to": 1,
+    "update": 1,
+    "version": 1,
+    "number": 1,
+    "references": 1,
+    "in": 1,
+    "the": 4,
+    "project.": 1,
+    "2017": 3,
+    "Set": 1,
+    "v${pkg.version}": 1,
+    "(${pkg.homepage})": 1,
+    "2011-${year}": 1,
+    "${pkg.author}": 1,
+    "IE10": 1,
+    "viewport": 1,
+    "hack": 1,
+    "Surface/desktop": 1,
+    "Windows": 1,
+    "8": 1,
+    "bug": 1,
+    "2014-2017": 2,
+    "2014-2015": 2,
+    "Creative": 2,
+    "Commons": 2,
+    "Attribution": 2,
+    "3.0": 2,
+    "Unported": 2,
+    "License.": 2,
+    "For": 2,
+    "details,": 2,
+    "see": 2,
+    "https://creativecommons.org/licenses/by/3.0/.": 2,
+    "return": 1,
+    "@_jscript_version;": 1,
+    "(C)": 1,
+    "Federico": 1,
+    "Zivolo": 1,
+    "Distributed": 1,
+    "License": 1,
+    "(license": 1,
+    "terms": 1,
+    "are": 1,
+    "at": 1,
+    "http://opensource.org/licenses/MIT).": 1,
+    "v3.2.1": 1,
+    "-ajax,-ajax/jsonp,-ajax/load,-ajax/parseXML,-ajax/script,-ajax/var/location,-ajax/var/nonce,-ajax/var/rquery,-ajax/xhr,-manipulation/_evalUrl,-event/ajax,-effects,-effects/Tween,-effects/animatedSelector": 1,
+    "|": 2,
+    "(c)": 1,
+    "JS": 1,
+    "Foundation": 1,
+    "and": 1,
+    "other": 1,
+    "contributors": 1,
+    "jquery.org/license": 1,
+    "JavaScript": 1,
+    "docs": 1,
+    "Clipboard,": 1,
+    "anchors": 1
+  }
+}

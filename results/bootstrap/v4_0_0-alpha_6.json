@@ -1,0 +1,326 @@
+{
+  "files": [
+    {
+      "path": "Gruntfile.js",
+      "documentations": 0
+    },
+    {
+      "path": "package.js",
+      "documentations": 1
+    },
+    {
+      "path": "bootstrap.js",
+      "documentations": 54
+    },
+    {
+      "path": "bootstrap.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "util.js",
+      "documentations": 4
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 7
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 6
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 6
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 6
+    },
+    {
+      "path": "tab.js",
+      "documentations": 6
+    },
+    {
+      "path": "popover.js",
+      "documentations": 5
+    },
+    {
+      "path": "alert.js",
+      "documentations": 6
+    },
+    {
+      "path": "button.js",
+      "documentations": 6
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 6
+    },
+    {
+      "path": "modal.js",
+      "documentations": 6
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 0
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 0
+    },
+    {
+      "path": "phantom.js",
+      "documentations": 0
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 0
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 0
+    },
+    {
+      "path": "tab.js",
+      "documentations": 0
+    },
+    {
+      "path": "popover.js",
+      "documentations": 0
+    },
+    {
+      "path": "alert.js",
+      "documentations": 0
+    },
+    {
+      "path": "button.js",
+      "documentations": 0
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 0
+    },
+    {
+      "path": "modal.js",
+      "documentations": 0
+    },
+    {
+      "path": "qunit.js",
+      "documentations": 0
+    },
+    {
+      "path": "util.js",
+      "documentations": 3
+    },
+    {
+      "path": "tooltip.js",
+      "documentations": 6
+    },
+    {
+      "path": "collapse.js",
+      "documentations": 5
+    },
+    {
+      "path": "scrollspy.js",
+      "documentations": 5
+    },
+    {
+      "path": "dropdown.js",
+      "documentations": 5
+    },
+    {
+      "path": "tab.js",
+      "documentations": 5
+    },
+    {
+      "path": "popover.js",
+      "documentations": 4
+    },
+    {
+      "path": "alert.js",
+      "documentations": 5
+    },
+    {
+      "path": "button.js",
+      "documentations": 5
+    },
+    {
+      "path": "carousel.js",
+      "documentations": 5
+    },
+    {
+      "path": "modal.js",
+      "documentations": 5
+    },
+    {
+      "path": "change-version.js",
+      "documentations": 2
+    },
+    {
+      "path": "postcss.js",
+      "documentations": 0
+    },
+    {
+      "path": "bootstrap.js",
+      "documentations": 54
+    },
+    {
+      "path": "bootstrap.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "tooltip-viewport.js",
+      "documentations": 0
+    },
+    {
+      "path": "offcanvas.js",
+      "documentations": 0
+    },
+    {
+      "path": "ie10-viewport-bug-workaround.js",
+      "documentations": 1
+    },
+    {
+      "path": "docs.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "ie-emulation-modes-warning.js",
+      "documentations": 2
+    },
+    {
+      "path": "clipboard.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "anchor.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "holder.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "tether.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "jekyll-search.min.js",
+      "documentations": 0
+    },
+    {
+      "path": "jquery-slim.min.js",
+      "documentations": 1
+    },
+    {
+      "path": "application.js",
+      "documentations": 2
+    }
+  ],
+  "histogram": {
+    "global": 7,
+    "Package:true": 1,
+    "Bootstrap": 56,
+    "v4.0.0-alpha.6": 4,
+    "(https://getbootstrap.com)": 5,
+    "Copyright": 12,
+    "2011-2017": 6,
+    "The": 8,
+    "Authors": 8,
+    "(https://github.com/twbs/bootstrap/graphs/contributors)": 4,
+    "Licensed": 52,
+    "under": 52,
+    "MIT": 50,
+    "(https://github.com/twbs/bootstrap/blob/master/LICENSE)": 50,
+    "--------------------------------------------------------------------------": 96,
+    "(v4.0.0-alpha.6):": 44,
+    "util.js": 4,
+    "": 1304,
+    "------------------------------------------------------------------------": 312,
+    "Private": 4,
+    "TransitionEnd": 4,
+    "Helpers": 4,
+    "Public": 4,
+    "Util": 4,
+    "Api": 36,
+    "alert.js": 4,
+    "Constants": 40,
+    "Class": 40,
+    "Definition": 40,
+    "Data": 32,
+    "implementation": 32,
+    "jQuery": 42,
+    "button.js": 4,
+    "carousel.js": 4,
+    "collapse.js": 4,
+    "dropdown.js": 4,
+    "modal.js": 4,
+    "scrollspy.js": 4,
+    "tab.js": 4,
+    "Tether": 12,
+    "tooltip.js": 4,
+    "Check": 4,
+    "for": 6,
+    "dependency": 4,
+    "-": 4,
+    "http://tether.io/": 4,
+    "popover.js": 4,
+    "//#": 11,
+    "sourceMappingURL=util.js.map": 1,
+    "sourceMappingURL=tooltip.js.map": 1,
+    "sourceMappingURL=collapse.js.map": 1,
+    "sourceMappingURL=scrollspy.js.map": 1,
+    "sourceMappingURL=dropdown.js.map": 1,
+    "sourceMappingURL=tab.js.map": 1,
+    "sourceMappingURL=popover.js.map": 1,
+    "sourceMappingURL=alert.js.map": 1,
+    "sourceMappingURL=button.js.map": 1,
+    "sourceMappingURL=carousel.js.map": 1,
+    "sourceMappingURL=modal.js.map": 1,
+    "Script": 1,
+    "to": 1,
+    "update": 1,
+    "version": 1,
+    "number": 1,
+    "references": 1,
+    "in": 1,
+    "the": 3,
+    "project.": 1,
+    "2017": 2,
+    "Twitter,": 4,
+    "Inc.": 4,
+    "Set": 1,
+    "IE10": 1,
+    "viewport": 1,
+    "hack": 1,
+    "Surface/desktop": 1,
+    "Windows": 1,
+    "8": 1,
+    "bug": 1,
+    "2014-2017": 2,
+    "2014-2015": 2,
+    "Creative": 2,
+    "Commons": 2,
+    "Attribution": 2,
+    "3.0": 2,
+    "Unported": 2,
+    "License.": 2,
+    "For": 2,
+    "details,": 2,
+    "see": 2,
+    "https://creativecommons.org/licenses/by/3.0/.": 2,
+    "return": 1,
+    "@_jscript_version;": 1,
+    "v3.1.1": 1,
+    "-ajax,-ajax/jsonp,-ajax/load,-ajax/parseXML,-ajax/script,-ajax/var/location,-ajax/var/nonce,-ajax/var/rquery,-ajax/xhr,-manipulation/_evalUrl,-event/ajax,-effects,-effects/animatedSelector,-effects/Tween,-deprecated": 1,
+    "|": 2,
+    "(c)": 1,
+    "Foundation": 1,
+    "jquery.org/license": 1,
+    "JavaScript": 1,
+    "Bootstrap's": 1,
+    "docs": 1,
+    "Clipboard,": 1,
+    "anchors": 1
+  }
+}
