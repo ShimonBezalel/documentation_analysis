@@ -1,0 +1,15 @@
+Get releases from specific repo
+
+https://api.github.com/repos/twbs/bootstrap/releases
+ - tag_name - version number
+ - created_at - when?
+
+or perhaps use tags?
+https://api.github.com/repos/twbs/bootstrap/tags
+
+There seems to be missing tags, meaning it doesnt go all the way back
+
+Use forks/ stars to measure popularity or re-usability.
+
+remove "todo/fixme" comments
+
